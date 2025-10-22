@@ -19,3 +19,8 @@ To install this theme, simply use the `omarchy-theme-install` command:
 
 ```bash
 omarchy-theme-install https://github.com/muhammad-shameel-ks/blue-land-omarchy-theme
+```
+
+## Recommended Waybar Configuration
+For a cohesive look, consider using this Waybar configuration:
+[Adsovetzky-Omarchy-s-Waybar](https://github.com/adsovetzky/Adsovetzky-Omarchy-s-Waybar)
